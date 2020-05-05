@@ -1,3 +1,5 @@
+### Nomad Coder Vanila Redux part 2
+
 ```javascript
 import { createStore } from "redux";
 
